@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme - dark version -->
+    <style name="Theme.WifiRTT.Base" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/md_deep_purple_800</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+</resources>
